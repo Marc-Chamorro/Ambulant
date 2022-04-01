@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023480206435",
+    "project_id": "ambulant-project",
+    "storage_bucket": "ambulant-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023480206435:android:bbb18e93d49ac574b79456",
+        "android_client_info": {
+          "package_name": "com.example.ambulant_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023480206435-aumieuin0segv7vvd9u9kbvj73n8e3pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLmcGTzTup0S-x3qUFQqEk5jRH3hl6CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023480206435-aumieuin0segv7vvd9u9kbvj73n8e3pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
